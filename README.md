@@ -43,7 +43,7 @@ smart_traffic_system/
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/AdityaChopra18/8-sem-project.git
+git clone https://github.com/AdityaChopra18/Major-Project-IT-2024-25-AI-Based-Smart-Traffic-Management-System.git
 cd 8-sem-project
 ```
 
